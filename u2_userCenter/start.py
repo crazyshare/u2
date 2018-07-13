@@ -1,7 +1,7 @@
 #coding=utf-8
 import os,pytest
 cur_path = os.getcwd()
-
+# ok
 # 检查adb,初始化uiautomator2
 os.system("%s\\public\\deal_u2.bat" %cur_path)
 
