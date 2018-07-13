@@ -1,0 +1,7 @@
+[
+  "test_home_app_ser.py::test_fix", 
+  "test_home_app_ser.py::test_discount", 
+  "test_home_app_ser.py::test_install", 
+  "test_home_app_ser.py::test_clear", 
+  "test_home_app_ser.py::test_more"
+]

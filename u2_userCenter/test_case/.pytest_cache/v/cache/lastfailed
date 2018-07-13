@@ -1,0 +1,7 @@
+{
+  "test_home_app_ser.py::test_clear": true, 
+  "test_home_app_ser.py::test_discount": true, 
+  "test_home_app_ser.py::test_fix": true, 
+  "test_home_app_ser.py::test_install": true, 
+  "test_home_app_ser.py::test_more": true
+}
